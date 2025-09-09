@@ -155,7 +155,7 @@ Improvements across minority classes show balanced performance compared to basel
 
 ---
 
-## Ethical Considerations
+## Ethical Considerations 
 
 - Dataset underrepresents darker skin tones, introducing potential bias  
 - Oversampling used to partially mitigate imbalance  
